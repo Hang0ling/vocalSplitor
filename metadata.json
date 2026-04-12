@@ -1,0 +1,5 @@
+{
+  "name": "SonicSplit AI",
+  "description": "A professional-grade audio stem separation interface featuring real-time mixing, frequency-based simulated separation, and AI-powered audio analysis using Gemini.",
+  "requestFramePermissions": []
+}
